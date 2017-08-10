@@ -1,0 +1,53 @@
+
+
+.schedule-container {
+     min-width: 800px;
+}
+
+.input-container {
+     min-width: 800px;
+}
+
+ body { 
+        background: url('../../images/hacker.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        box-sizing: border-box; height: 600px;
+        background-attachment: fixed; background-repeat: no-repeat; 
+        background-size: cover; background-position: center;
+
+
+   }
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
+.jumbotron {
+     color: white;
+     background-color: rgba(0,0,0,0.3);
+     min-width: 800px;
+}
+
+#footerSpacer {
+  background: transparent;
+  width: 100%;
+  height: 70px;
+  overflow:auto;
+     
+    
+}
+
+#footerPanel {
+  text-align: center;
+  color: white; 
+  background-color: blue;
+  border-radius: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+
